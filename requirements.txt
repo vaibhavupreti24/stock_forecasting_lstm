@@ -5,3 +5,4 @@ numpy
 tensorflow
 matplotlib
 pandas_datareader
+scikit-learn
